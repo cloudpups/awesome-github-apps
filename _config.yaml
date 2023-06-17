@@ -1,0 +1,9 @@
+title: Awesome GitHub Apps
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-remote-theme
+    
+remote_theme: cloudpups/awesome-github-apps-theme

@@ -1,1 +1,1 @@
-# awesome-github-apps
+# Awesome GitHub Apps
